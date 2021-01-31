@@ -89,6 +89,7 @@ while True:
         tags1 = loadbook_tags()
         print('Total de tags cargados: ' + str(lt.size(tags1)))
     # TO-DO: Modificaciones para completar el laboratorio 1.
+    # version final 
 
     else:
         sys.exit(0)
