@@ -1,4 +1,7 @@
 #ISIS1225 - Estructura de un proyecto
+-------------------------------------------------------------------------------
+integrantes
+ -- Ehimar Andres Vargas Malaver / e.vargasm@uniandes.edu.co / 202014902 
 
 Este proyecto busca mostrar una posible forma de organizar el código que se va a desarrollar en los proyectos del curso.
 

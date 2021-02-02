@@ -62,6 +62,7 @@ def loadTags():
 
 
 def loadbook_tags():
+    
     """
     cargar los book_tags
     """
@@ -85,9 +86,12 @@ while True:
         print('Total de tags cargados: ' + str(lt.size(tags)))
     
     elif int(inputs[0]) == 3:
+        pass
+        """
         print("Cargando información de book_tags....")
         tags1 = loadbook_tags()
         print('Total de tags cargados: ' + str(lt.size(tags1)))
+        """
     # TO-DO: Modificaciones para completar el laboratorio 1.
     # version final 
 
