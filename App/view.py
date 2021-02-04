@@ -86,6 +86,7 @@ while True:
         print('Total de tags cargados: ' + str(lt.size(tags)))
     
     elif int(inputs[0]) == 3:
+        print("La funcion se implementara Pronto... ")
         pass
         """
         print("Cargando información de book_tags....")
